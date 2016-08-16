@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RegressionTest">
+    
+    <test name="TestingFirst" values="true">
+        <classes>
+            <class name="com.pack.test.Verifylogin" />
+        </classes>
+    </test>
+</suite>
